@@ -1,0 +1,25 @@
+C:\Users\aless\Documents\UNIVERSITA'\BASI DI DATI\PROGETTO\Progetto\Progetto\bin\Debug\Progetto.exe.config
+C:\Users\aless\Documents\UNIVERSITA'\BASI DI DATI\PROGETTO\Progetto\Progetto\bin\Debug\Progetto.exe
+C:\Users\aless\Documents\UNIVERSITA'\BASI DI DATI\PROGETTO\Progetto\Progetto\bin\Debug\Progetto.pdb
+C:\Users\aless\Documents\UNIVERSITA'\BASI DI DATI\PROGETTO\Progetto\Progetto\obj\Debug\Progetto.csprojResolveAssemblyReference.cache
+C:\Users\aless\Documents\UNIVERSITA'\BASI DI DATI\PROGETTO\Progetto\Progetto\obj\Debug\Progetto.Form1.resources
+C:\Users\aless\Documents\UNIVERSITA'\BASI DI DATI\PROGETTO\Progetto\Progetto\obj\Debug\Progetto.Properties.Resources.resources
+C:\Users\aless\Documents\UNIVERSITA'\BASI DI DATI\PROGETTO\Progetto\Progetto\obj\Debug\Progetto.csproj.GenerateResource.Cache
+C:\Users\aless\Documents\UNIVERSITA'\BASI DI DATI\PROGETTO\Progetto\Progetto\obj\Debug\Progetto.exe
+C:\Users\aless\Documents\UNIVERSITA'\BASI DI DATI\PROGETTO\Progetto\Progetto\obj\Debug\Progetto.pdb
+C:\Users\aless\Documents\UNIVERSITA'\BASI DI DATI\PROGETTO\Progetto\Progetto\obj\Debug\Progetto.Form2.resources
+C:\Users\aless\Documents\UNIVERSITA'\BASI DI DATI\PROGETTO\Progetto\Progetto\obj\Debug\Progetto.Form3.resources
+C:\Users\aless\Documents\UNIVERSITA'\BASI DI DATI\PROGETTO\Progetto\Progetto\obj\Debug\Progetto.FormInserisci.resources
+D:\Users\Sara\Documents\00 - Computer Science\Data Bases\Progetto\Progetto terminato\Progetto\Progetto\bin\Debug\Progetto.exe.config
+D:\Users\Sara\Documents\00 - Computer Science\Data Bases\Progetto\Progetto terminato\Progetto\Progetto\bin\Debug\Progetto.exe
+D:\Users\Sara\Documents\00 - Computer Science\Data Bases\Progetto\Progetto terminato\Progetto\Progetto\bin\Debug\Progetto.pdb
+D:\Users\Sara\Documents\00 - Computer Science\Data Bases\Progetto\Progetto terminato\Progetto\Progetto\obj\Debug\Progetto.csprojAssemblyReference.cache
+D:\Users\Sara\Documents\00 - Computer Science\Data Bases\Progetto\Progetto terminato\Progetto\Progetto\obj\Debug\Progetto.Form1.resources
+D:\Users\Sara\Documents\00 - Computer Science\Data Bases\Progetto\Progetto terminato\Progetto\Progetto\obj\Debug\Progetto.Form2.resources
+D:\Users\Sara\Documents\00 - Computer Science\Data Bases\Progetto\Progetto terminato\Progetto\Progetto\obj\Debug\Progetto.Form3.resources
+D:\Users\Sara\Documents\00 - Computer Science\Data Bases\Progetto\Progetto terminato\Progetto\Progetto\obj\Debug\Progetto.FormInserisci.resources
+D:\Users\Sara\Documents\00 - Computer Science\Data Bases\Progetto\Progetto terminato\Progetto\Progetto\obj\Debug\Progetto.Properties.Resources.resources
+D:\Users\Sara\Documents\00 - Computer Science\Data Bases\Progetto\Progetto terminato\Progetto\Progetto\obj\Debug\Progetto.csproj.GenerateResource.cache
+D:\Users\Sara\Documents\00 - Computer Science\Data Bases\Progetto\Progetto terminato\Progetto\Progetto\obj\Debug\Progetto.csproj.CoreCompileInputs.cache
+D:\Users\Sara\Documents\00 - Computer Science\Data Bases\Progetto\Progetto terminato\Progetto\Progetto\obj\Debug\Progetto.exe
+D:\Users\Sara\Documents\00 - Computer Science\Data Bases\Progetto\Progetto terminato\Progetto\Progetto\obj\Debug\Progetto.pdb
